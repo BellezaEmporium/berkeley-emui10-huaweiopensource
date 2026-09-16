@@ -5,6 +5,8 @@ It is aimed to fix Clang errors that might break kernel/vmlinux compilation.
 
 The source code is given to you without any warranty.
 
+For any copyright, please see NOTICE.html.
+
 ## Version
 EMUI 10.0.0.179 - Linux kernel ver 4.14.116
 
